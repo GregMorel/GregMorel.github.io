@@ -83,10 +83,10 @@ author:
   name             : "Grégory Morel, Ph.D."
   avatar           : "profile.png"
   bio              : "Associate Professor"
-  location         : "Location"
-  employer         : "https://www.cpe.fr"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "Lyon, France"
+  employer         : "CPE Lyon"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.fr/citations?hl=fr&user=ERHQUDwAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/gr%C3%A9gory-morel-8a03a492/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
