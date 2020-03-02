@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Grégory Morel, Ph.D."
   avatar           : "profile.png"
-  bio              : "Associate Professor"
+  bio              : "<b>Associate Professor</b><br><a href='http://www.cpe.fr'>CPE Lyon</a>"
   location         : "Lyon, France"
   employer         : "CPE Lyon"
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?hl=fr&user=ERHQUDwAAAAJ"
-  email            :
+  email            : "gregory.morel@cpe.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
