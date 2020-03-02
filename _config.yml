@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "<b>Associate Professor</b><br><a href='http://www.cpe.fr'>CPE Lyon</a>"
   location         : "Lyon, France"
-  employer         : "CPE Lyon"
+  #employer         : "CPE Lyon"
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?hl=fr&user=ERHQUDwAAAAJ"
   email            : "gregory.morel@cpe.fr"
